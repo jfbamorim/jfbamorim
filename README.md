@@ -12,6 +12,9 @@ jfbamorim/jfbamorim is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+## 💻 Certifications:
+![Certifications](https://images.credly.com/images/89076aca-a42e-47e1-8172-5b60b31812d9/MTA-Database_Fundamentals.png)
+
 ## 💻 My programming skills
 - Python
 - Java
