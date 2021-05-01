@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jfbamorim
 - 👀 I’m interested in learning more, develop better and keep on improving.
 - 🌱 I’m currently learning Python and developing some reports and dashboards on Microsoft Power BI. 
-- 📫 How could you reach me
+- 📫 How could you reach me: [![LinkedIn badge](https://img.shields.io/badge/-jfbamorim-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jfbamorim)
 Take a look at my repositories, as well, so you can learn about me :)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jfbamorim&count_private=true&show_icons=true&theme=white&hide=contribs&hide_border=true)
