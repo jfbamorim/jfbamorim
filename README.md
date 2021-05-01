@@ -10,3 +10,13 @@
 jfbamorim/jfbamorim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 💻 My programming skills
+- Python
+- Java
+- SQL
+
+## 🧩 My interests:
+- Database development
+- Python & Django webpages
+- Java and Python programming
