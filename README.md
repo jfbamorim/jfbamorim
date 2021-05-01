@@ -14,7 +14,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 🎓 My projects:
 - Currently working on 100 days Python by Angela Yu - [100 Days Python](https://github.com/jfbamorim/100dayspython).
-- 
+- Games developed:
+  - [Turtle Crossing Capstone](https://github.com/jfbamorim/100dayspython/tree/master/daytwentythree)
+  - [Snake Game](https://github.com/jfbamorim/100dayspython/tree/master/daytwentyone)
+  - [Blackjack](https://github.com/jfbamorim/100dayspython/tree/master/dayeleven)
+  - [Pong Arcade Game](https://github.com/jfbamorim/100dayspython/tree/master/daytwentytwo)
 
 ## 💻 Certifications:
 - Microsoft Database Fundamentals (08.11.2020) - https://www.youracclaim.com/badges/b913e0ed-5e08-42fb-8704-c71933302939?source=linked_in_profile
