@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🎓 My projects:
-- Currently working on 100 days Python by Angela Yu - [100 Days Python](https://github.com/jfbamorim/100dayspython).
+- Currently working on 100 days Python by Angela Yu - [100 Days Python](https://github.com/jfbamorim/100dayspython) - ![25%](https://progress-bar.dev/25)
 - Games developed:
   - [Turtle Crossing Capstone](https://github.com/jfbamorim/100dayspython/tree/master/daytwentythree)
   - [Snake Game](https://github.com/jfbamorim/100dayspython/tree/master/daytwentyone)
