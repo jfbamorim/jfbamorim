@@ -13,14 +13,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💻 Certifications:
-- Microsoft Database Fundamentals (08.11.2020)
+- Microsoft Database Fundamentals (08.11.2020) - https://docs.microsoft.com/pt-br/learn/certifications/exams/98-364
 
-![image](https://user-images.githubusercontent.com/36761125/116785940-19d1e580-aa94-11eb-8d03-30227c951641.png)
-
-On demand:
-- DP-900:
-- AZ-900:
-- PCAP Python Certification
+## On demand:
+- DP-900: Microsoft Azure Data Fundamentals - https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900
+- AZ-900: Microsoft Azure Fundamentals - https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
+- PCAP Python Certification - https://pythoninstitute.org/certification/pcap-certification-associate/
 
 ## 💻 My programming skills
 - Python
