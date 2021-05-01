@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💻 Certifications:
-![Certifications](![image](https://user-images.githubusercontent.com/36761125/116785940-19d1e580-aa94-11eb-8d03-30227c951641.png))
+Microsoft Database Fundamentals (08.11.2020) ![image](https://user-images.githubusercontent.com/36761125/116785940-19d1e580-aa94-11eb-8d03-30227c951641.png)
 
 ## 💻 My programming skills
 - Python
