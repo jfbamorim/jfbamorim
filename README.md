@@ -4,8 +4,8 @@
 - 📫 How could you reach me
 Take a look at my repositories, as well, so you can learn about me :)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jfbamorim&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfbamorim&layout=compact&theme=dracula&hide_border=true)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jfbamorim&count_private=true&show_icons=true&theme=white&hide=contribs&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfbamorim&layout=compact&theme=white&hide_border=true)]
 
 <!---
 jfbamorim/jfbamorim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
