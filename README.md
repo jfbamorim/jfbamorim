@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💻 Certifications:
-![Certifications](https://images.credly.com/images/89076aca-a42e-47e1-8172-5b60b31812d9/MTA-Database_Fundamentals.png)
+![Certifications](![image](https://user-images.githubusercontent.com/36761125/116785940-19d1e580-aa94-11eb-8d03-30227c951641.png))
 
 ## 💻 My programming skills
 - Python
