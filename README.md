@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💻 Certifications:
-- Microsoft Database Fundamentals (08.11.2020) - https://docs.microsoft.com/pt-br/learn/certifications/exams/98-364
+- Microsoft Database Fundamentals (08.11.2020) - https://www.youracclaim.com/badges/b913e0ed-5e08-42fb-8704-c71933302939?source=linked_in_profile
+- Databricks: Academy Accreditation - SQL Analyst Associate - https://credentials.databricks.com/da948431-49de-4882-935c-711820dd2a1d
 
 ## On demand:
 - DP-900: Microsoft Azure Data Fundamentals - https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900
