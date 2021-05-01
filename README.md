@@ -12,6 +12,10 @@ jfbamorim/jfbamorim is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+## 🎓 My projects:
+- Currently working on 100 days Python by Angela Yu - [100 Days Python](https://github.com/jfbamorim/100dayspython).
+- 
+
 ## 💻 Certifications:
 - Microsoft Database Fundamentals (08.11.2020) - https://www.youracclaim.com/badges/b913e0ed-5e08-42fb-8704-c71933302939?source=linked_in_profile
 - Databricks: Academy Accreditation - SQL Analyst Associate - https://credentials.databricks.com/da948431-49de-4882-935c-711820dd2a1d
