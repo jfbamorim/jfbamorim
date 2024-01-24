@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
   - [USA States Guessing Game](https://github.com/jfbamorim/100dayspython/tree/master/daytwentyfive/us-states-game-start)
 
 ## 💻 Certifications:
-- SAP Certified Development Associate - Programming in SAP S/4HANA for SAP NetWeaver ABAP Programmers
-- SAP Certified Development Associate - SAP HANA 2.0 SPS06
+- SAP Certified Development Associate - Programming in SAP S/4HANA for SAP NetWeaver ABAP Programmers - https://www.credly.com/badges/34ef34db-4b63-463d-9324-5d7e664737fc/linked_in_profile
+- SAP Certified Development Associate - SAP HANA 2.0 SPS06 - https://www.credly.com/badges/d2f9b5ee-0d02-40d0-a623-b7bb387a4cb5/linked_in_profile
 - Microsoft Database Fundamentals (08.11.2020) - https://www.youracclaim.com/badges/b913e0ed-5e08-42fb-8704-c71933302939?source=linked_in_profile
 - Databricks: Academy Accreditation - SQL Analyst Associate - https://credentials.databricks.com/da948431-49de-4882-935c-711820dd2a1d
 
