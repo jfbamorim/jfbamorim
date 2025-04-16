@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jorge Amorim [![LinkedIn badge](https://img.shields.io/badge/-jfbamorim-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jorge-amorim-316969108/)
+# 👋 Hi, I’m Jorge Amorim!
 - 👀 I’m interested in learning more, develop better and keep on improving as a developer.
 - 🌱 I’m currently a SAP ABAP Developer for more than six years. My goal is to become a full stack SAP developer, working with CDS Views, Fiori Elements and Fiori Freestyle applications. 
 - Take a look at my repositories, as well, so you can learn about me :)
