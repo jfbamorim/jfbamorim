@@ -12,14 +12,20 @@ jfbamorim/jfbamorim is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## 🎓 My finished projects:
-- Currently working on 100 days Python by Angela Yu - [100 Days Python](https://github.com/jfbamorim/100dayspython) - ![25%](https://progress-bar.dev/25/) concluded.
-- Games developed:
-  - [Turtle Crossing Capstone](https://github.com/jfbamorim/100dayspython/tree/master/daytwentythree)
-  - [Snake Game](https://github.com/jfbamorim/100dayspython/tree/master/daytwentyone)
-  - [Blackjack](https://github.com/jfbamorim/100dayspython/tree/master/dayeleven)
-  - [Pong Arcade Game](https://github.com/jfbamorim/100dayspython/tree/master/daytwentytwo)
-  - [USA States Guessing Game](https://github.com/jfbamorim/100dayspython/tree/master/daytwentyfive/us-states-game-start)
+## 🎓 My upcomming projects:
+For now, I am starting to develop some applications on the SAP BTP Trial account, using Eclipse and ABAP Development Tools for the backend. For the frontend, I used the Business Application Studio (BAS) from BTP Trial Account as well.
+- Using CDS Views (Basic, Composite and Consumption) gather all the backend information and serve to the frontend as OData services.
+- On Frontend, either with SAPUI5 freestyle or Fiori Elements, create applications with mockup data.
+Currently I am working on a Vendor Performance Cockpit which will be a Fiori Elements application that shows the vendors performance based on:
+- Average delivery time;
+- Percentage of late deliveries;
+- Registered complaints;
+- Comparison of prices per item;
+- Monthly trend in purchasing volume;
+
+The goal of this project is to have an application like this:
+![image](https://github.com/user-attachments/assets/b02d8204-c688-4755-bc1a-b148583f01ef)
+
 
 ## 💻 Certifications:
 - SAP Certified Development Associate - Programming in SAP S/4HANA for SAP NetWeaver ABAP Programmers - https://www.credly.com/badges/34ef34db-4b63-463d-9324-5d7e664737fc/linked_in_profile
