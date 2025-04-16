@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jorge Amorim [![LinkedIn badge](https://img.shields.io/badge/-jfbamorim-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jorge-amorim-316969108/)
 - 👀 I’m interested in learning more, develop better and keep on improving as a developer.
-- 🌱 I’m currently a SAP ABAP Developer for more than five years (but I have great interest in learning more on other programming languages)
+- 🌱 I’m currently a SAP ABAP Developer for more than six years. My goal is to become a full stack SAP developer, working with CDS Views, Fiori Elements and Fiori Freestyle applications. 
 - Take a look at my repositories, as well, so you can learn about me :)
 
 
@@ -12,7 +12,7 @@ jfbamorim/jfbamorim is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## 🎓 My projects:
+## 🎓 My finished projects:
 - Currently working on 100 days Python by Angela Yu - [100 Days Python](https://github.com/jfbamorim/100dayspython) - ![25%](https://progress-bar.dev/25/) concluded.
 - Games developed:
   - [Turtle Crossing Capstone](https://github.com/jfbamorim/100dayspython/tree/master/daytwentythree)
@@ -28,16 +28,14 @@ You can click the Preview link to take a look at your changes.
 - Databricks: Academy Accreditation - SQL Analyst Associate - https://credentials.databricks.com/da948431-49de-4882-935c-711820dd2a1d
 
 ## 💻 My programming skills
-- ABAP (of course)
-    - from RICEFW until CDS Views or AMDP;
+- ABAP
 - FIORI
-    - Freestyle or via Fiori Elements (with RAP Development); 
 - Python
 - Java
 - SQL
 
 ## 🧩 My interests:
-- SAP (ahah, no one would guess that..)
+- SAP Development - backend and frontend
 - Database development
 - Python & Django webpages
 - Java and Python programming
