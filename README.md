@@ -31,7 +31,8 @@ The goal of this project is to have an application like this:
 - SAP ABAP
 - SAPUI5 and FIORI
 - Restful Application Programming model - SAP RAP
-Outside SAP world:
+
+_Outside SAP world:_
 - Python
 - Java
 - SQL
