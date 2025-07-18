@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Jorge Amorim!
 - 👀 I’m interested in learning more, develop better and keep on improving as a developer.
-- 🌱 I’m currently a SAP ABAP Developer for more than six years. My goal is to become a full stack SAP developer, working with CDS Views, Fiori Elements and Fiori Freestyle applications. 
-- Take a look at my repositories, as well, so you can learn about me :)
+- 🌱 I’m currently a SAP ABAP Developer for more than six years. My goal is to become a full stack SAP developer, working with CDS Views, Fiori Elements and Fiori Freestyle applications.
 
 <!---
 jfbamorim/jfbamorim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
