@@ -2,6 +2,9 @@
 
 # Jorge Amorim
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-amorim-316969108/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jfbamorim)
+
 ### SAP Full Stack Developer in the Making
 
 *Eight years of ABAP. Now building the full picture.*
@@ -11,10 +14,6 @@
 <img width="120" src="https://github.com/user-attachments/assets/533ce04a-7b8a-4540-af16-d608624fec4d" />
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-amorim-316969108/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jfbamorim)
-
 </div>
 
 ## 📍 About Me
