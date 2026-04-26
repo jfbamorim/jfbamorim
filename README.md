@@ -7,8 +7,6 @@
 
 ### SAP Full Stack Developer in the Making
 
-*Eight years of ABAP. Now building the full picture.*
-
 <br/>
 </div>
 
@@ -63,7 +61,5 @@ I believe that understanding both sides of the stack makes you a better develope
 ---
 
 <div align="center">
-
-*Always learning. Always building.*
 
 </div>
